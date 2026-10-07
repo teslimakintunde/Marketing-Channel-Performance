@@ -160,3 +160,54 @@ The resulting framework provides a **data-driven foundation for marketing budget
 |--------------|---------------------------------------------------|
 | **MySQL**    | Data cleaning, transformation, ROAS, CAC, CLV & modelling |
 | **Power BI** | Interactive dashboard, visualisation & executive reporting |
+
+
+
+
+---
+### Dashboard 1: Campaign Performance
+<p align="left">
+  <img src="https://cdn.prod.website-files.com/650ad291fd6cf342753e6a79/6ac650ca894dcc86f93c013a_Screenshot%20(7).png" alt="Profile Banner" width="100%"/>
+</p>
+
+### Dashboard 2: Channel Performance
+<p align="left">
+  <img src="https://cdn.prod.website-files.com/650ad291fd6cf342753e6a79/6ac650cab8cb40ca0c1fe117_Screenshot%20(8).png" alt="Profile Banner" width="100%"/>
+</p>
+
+
+### Dashboard 3: Customer Acquisition Economics
+<p align="left">
+  <img src="https://cdn.prod.website-files.com/650ad291fd6cf342753e6a79/6ac650caafce94ca97fc03b3_Screenshot%20(9).png" alt="Profile Banner" width="100%"/>
+</p>
+
+
+### Dashboard 4: Platform Attribution & Funnel Efficiency
+<p align="left">
+  <img src="https://cdn.prod.website-files.com/650ad291fd6cf342753e6a79/6ac650ca7ec1009529a7daea_Screenshot%20(10).png" alt="Profile Banner" width="100%"/>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
